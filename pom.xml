@@ -25,7 +25,6 @@
 		<log4j.version>1.2.17</log4j.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<sonar.token>squ_5a4a5964f985e416da0160ba79c48712249c0dfd</sonar.token>
 		<sonar.host.url>http://99.79.7.103:9000/</sonar.host.url>
 		
 		<sonar.qualitygate.wait>true</sonar.qualitygate.wait>
