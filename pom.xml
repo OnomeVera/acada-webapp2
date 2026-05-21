@@ -102,15 +102,15 @@
 
 	<distributionManagement>
 	    <repository>
-	      <id>acada-release</id>
+	      <id>acada-web-release</id>
 	      <name>ACADA Learning release Nexus Repository</name>
-	      <url>http://15.222.6.124:8081/repository/acada-release/</url>
+	      <url>http://15.223.227.203:8081/repository/acada-web-release/</url>
 	    </repository>
 
 	    <snapshotRepository>
-	      <id>acada-snapshot</id>
+	      <id>acada-web-snapshot</id>
 	      <name>ACADA Learning snapshot Nexus Repository </name>
-	      <url>http://15.222.6.124:8081/repository/acada-snapshot/</url>
+	      <url>http://15.223.227.203:8081/repository/acada-web-snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>

@@ -1,12 +1,12 @@
 <settings xmlns="http://maven.apache.org/SETTINGS/1.1.0">
     <servers>
         <server>
-            <id>acada-snapshot</id>
+            <id>acada-web-snapshot</id>
             <username>${repo.login}</username>
             <password>${repo.pwd}</password>
         </server>
         <server>
-            <id>acada-release</id>
+            <id>acada-web-release</id>
             <username>${repo.login}</username>
             <password>${repo.pwd}</password>
         </server>
