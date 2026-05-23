@@ -4,11 +4,13 @@
             <id>acada-web-snapshot</id>
             <username>${repo.login}</username>
             <password>${repo.pwd}</password>
+            <url>${repo.snap-url}</url>
         </server>
         <server>
             <id>acada-web-release</id>
             <username>${repo.login}</username>
             <password>${repo.pwd}</password>
+            <url>${repo.rel-url}</url>
         </server>
     </servers>
 </settings>
