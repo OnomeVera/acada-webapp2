@@ -104,13 +104,13 @@
 	    <repository>
 	      <id>acada-web-release</id>
 	      <name>ACADA Learning release Nexus Repository</name>
-	      <!-- <url>http://15.223.227.203:8081/repository/acada-web-release/</url> -->
+	      <url>http://35.183.77.184:8082/artifactory/acada-webapp-release/</url>
 	    </repository>
 
 	    <snapshotRepository>
 	      <id>acada-web-snapshot</id>
 	      <name>ACADA Learning snapshot Nexus Repository </name>
-	      <!-- <url>http://15.223.227.203:8081/repository/acada-web-snapshot/</url> -->
+	      <url>http://35.183.77.184:8082/artifactory/acada-webapp-snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
