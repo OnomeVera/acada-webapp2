@@ -36,4 +36,12 @@ INSERT INTO employees (name, email, department, phone, position) VALUES
 ('Jane Smith', 'jane.smith@acadalearning.com', 'Cloud', '+1-587-574-2234', 'Cloud Architect'),
 ('Mike Johnson', 'mike.johnson@acadalearning.com', 'Training', '+1-587-574-2235', 'Training Instructor'),
 ('Mike agbalumo', 'mike.agbalumo@acadalearning.com', 'Training', '+1-587-574-2236', 'Training Instructor'),
-('Emily Davis', 'emily.davis@acadalearning.com', 'HR', '+1-587-574-2237', 'HR Manager');
+('Emmanuel Okon', 'emmanuel.okon@acadalearning.com', 'HR', '+1-587-574-2237', 'HR Manager'),
+('Samuel Jones', 'samuel.jones@acadalearning.com', 'Admin', '+1-587-574-2237', 'Admin Manager'),
+('Moses Bliss', 'moses.bliss@acadalearning.com', 'Product', '+1-587-574-2237', 'Product Manager'),
+('Joshua David', 'joshua.david@acadalearning.com', 'Finance', '+1-587-574-2237', 'Finance Manager'),
+('Samuel Mathew', 'samuel.mathew@acadalearning.com', 'DevOps', '+1-587-574-2237', 'DevOps Manager'),
+('Nnacy Jones', 'nnacy.jones@acadalearning.com', 'Finance', '+1-587-574-2237', 'Accountant'),
+('Abigail Brown', 'abigail.brown@acadalearning.com', 'HR', '+1-587-574-2237', 'HR Officerr'),
+('Emma Wilson', 'emma.wilson@acadalearning.com', 'Customer Experience', '+1-587-574-2237', 'Customer ExperienceManager'),
+('Fiona Green', 'fiona.green@acadalearning.com', 'Software', '+1-587-574-2237', 'Software Manager');
